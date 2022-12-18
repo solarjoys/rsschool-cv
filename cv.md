@@ -15,12 +15,12 @@ In free time I like to train kids and adults in my street soccer scool and organ
 
 
 ## Skills
-*HTML
-*CSS
-*JS (in progress)
-*git
-*VS Code
-*Photoshop
+* HTML
+* CSS
+* JS (in progress)
+* git
+* VS Code
+* Photoshop
 
 
 ## Code example
@@ -34,8 +34,8 @@ alert( i );
 
 
 ## Projects
-*[CV html/css](https://solarjoys.github.io/rsschool-cv/) - My first RS Schoool project
-*[vinokurnja.ru](http://vinokurnja.ru/) - My first attempt to create a website by myself. Bubbles js code and form validation from codepen.io.
+* [CV html/css](https://solarjoys.github.io/rsschool-cv/) - My first RS Schoool project
+* [vinokurnja.ru](http://vinokurnja.ru/) - My first attempt to create a website by myself. Bubbles js code and form validation from codepen.io.
 
 
 ## Education
